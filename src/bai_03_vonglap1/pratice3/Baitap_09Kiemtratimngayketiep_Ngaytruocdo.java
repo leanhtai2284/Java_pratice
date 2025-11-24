@@ -1,4 +1,4 @@
-package bai_03_VongLap.pratice3;
+package bai_03_vonglap1.pratice3;
 
 import java.util.Scanner;
 
